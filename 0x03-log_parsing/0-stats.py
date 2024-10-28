@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """This module reads log entries from standard input, processes them line
 by line, and computes statistics based on the log data.
 """
