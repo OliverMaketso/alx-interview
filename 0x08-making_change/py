@@ -1,0 +1,4 @@
+0-making_change.py:6:1: E302 expected 2 blank lines, found 1
+0-making_change.py:13:1: W293 blank line contains whitespace
+0-making_change.py:17:1: W293 blank line contains whitespace
+0-making_change.py:24:80: E501 line too long (82 > 79 characters)
